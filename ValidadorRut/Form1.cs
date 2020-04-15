@@ -20,10 +20,16 @@ namespace ValidadorRut
         private void button1_Click(object sender, EventArgs e)
         {
             string rut = textBox1.Text;
-            //se agrega 0 a menos digitos
-            if (rut.Length == 9) 
+
+            
+            if (rut.Length < 10) 
             {
-                rut = "0" + rut;
+                //se agrega 0 a menos digitos
+                while (rut.Length != 10)
+                {
+                    rut = "0" + rut;
+                }
+                
             }
             //operaion para validar
             double suma = 0;
@@ -70,26 +76,21 @@ namespace ValidadorRut
             {
                 MessageBox.Show("El digito verificador está correcto", "Codigo correcto", MessageBoxButtons.OK);
                 rutverificado = true;
-                this.BackColor = Color.Green;
+                
             }
             else
             {
                 MessageBox.Show("El digito verificador es incorrecto", "Error ", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 rutverificado = false;
-                this.BackColor = Color.Red;
+                
             }
+            
         }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            if (rutverificado)
-            {
-                BackColor = Color.Green;
-            }
-            else
-            {
-                BackColor = Color.Red;
-            }
+           
         }
     }
 }
