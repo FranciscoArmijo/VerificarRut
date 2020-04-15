@@ -16,3 +16,12 @@ D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRu
 D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.csproj.GenerateResource.cache
 D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.exe
 D:\IP LEONES\SEMESTRE 3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.pdb
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.csprojAssemblyReference.cache
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.Form1.resources
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.Properties.Resources.resources
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.csproj.GenerateResource.cache
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.exe
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\obj\Debug\ValidadorRut.pdb
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\bin\Debug\ValidadorRut.exe.config
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\bin\Debug\ValidadorRut.exe
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\120420 VALIDADOR RUT\PROFESOR\ValidadorRut-ConCorreccion\ValidadorRut\bin\Debug\ValidadorRut.pdb
