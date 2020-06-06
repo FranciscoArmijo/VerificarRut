@@ -34,7 +34,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.labelValidador = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -50,7 +49,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(234, 28);
+            this.textBox1.Location = new System.Drawing.Point(241, 28);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(192, 30);
             this.textBox1.TabIndex = 1;
@@ -71,7 +70,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(238, 76);
+            this.label2.Location = new System.Drawing.Point(244, 61);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(187, 25);
             this.label2.TabIndex = 3;
@@ -81,7 +80,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(308, 114);
+            this.label3.Location = new System.Drawing.Point(315, 96);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(39, 38);
             this.label3.TabIndex = 4;
@@ -99,23 +98,12 @@
             this.label4.TabIndex = 5;
             this.label4.Text = "el rut debe ir sin puntos,\r\ncon guion y con digito verificador\r\n11111111-1";
             // 
-            // labelValidador
-            // 
-            this.labelValidador.AutoSize = true;
-            this.labelValidador.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelValidador.Location = new System.Drawing.Point(238, 157);
-            this.labelValidador.Name = "labelValidador";
-            this.labelValidador.Size = new System.Drawing.Size(187, 25);
-            this.labelValidador.TabIndex = 6;
-            this.labelValidador.Text = "El digito correcto es:";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(621, 204);
-            this.Controls.Add(this.labelValidador);
+            this.ClientSize = new System.Drawing.Size(621, 141);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -138,7 +126,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label labelValidador;
     }
 }
 
